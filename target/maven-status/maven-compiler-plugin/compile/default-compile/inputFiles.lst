@@ -1,0 +1,9 @@
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/PaymentHandler.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/IDebitEventObserver.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/qualifiers/Debit.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/beans/PaymentBean.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/handler/ICreditEventObserver.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/resources/Resources.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/events/PaymentEvent.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/qualifiers/Credit.java
+/home/diego.uchoa/Documents/redhat/jboss-eap-7.0.0.GA-quickstarts/payment-cdi-event/src/main/java/org/jboss/as/quickstarts/payment/events/PaymentTypeEnum.java
