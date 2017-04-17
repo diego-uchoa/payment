@@ -159,8 +159,8 @@
                 <version>${version.war.plugin}</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
-                    <outputDirectory>target</outputDirectory>
-              		<warName>ROOT</warName>
+                    <!-- <outputDirectory>target</outputDirectory>
+              		<warName>ROOT</warName> -->
                 </configuration>
             </plugin>
             <!-- WildFly plug-in to deploy the WAR -->
